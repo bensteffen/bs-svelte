@@ -1,0 +1,19 @@
+{
+  "name": "bs-svelte",
+  "version": "1.0.0",
+  "description": "Svelte Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensteffen/bs-svelte.git"
+  },
+  "author": "Florian Haeussinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensteffen/bs-svelte/issues"
+  },
+  "homepage": "https://github.com/bensteffen/bs-svelte#readme"
+}
